@@ -1,0 +1,10 @@
+.tab {
+    margin-top: 30px;
+}
+.tab th {
+    text-align: center;
+}
+.tab img {
+    width: 99%;
+    height: auto;
+}
